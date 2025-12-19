@@ -1,4 +1,8 @@
-streamlit
 pandas
-plotly
+streamlit
 openpyxl
+pyxlsb
+plotly
+streamlit-aggrid 
+python-calamine  
+pyarrow            
